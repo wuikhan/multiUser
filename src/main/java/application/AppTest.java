@@ -31,12 +31,6 @@ public class AppTest {
 		driver.findElement(By.linkText("Add content")).click();
 		driver.findElement(By.id("edit-title")).sendKeys("Test");
 	}
-
-	@Test
-	public void logout() {
-		System.out.println("This method will check the functionality of log out");
-	}
-
 	@AfterMethod
 	public void tearDown() {
 		driver.quit();
