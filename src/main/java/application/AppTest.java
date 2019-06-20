@@ -33,7 +33,6 @@ public class AppTest {
 	}
 	@AfterMethod
 	public void tearDown() {
-		
 		driver.quit();
 	}
 }
