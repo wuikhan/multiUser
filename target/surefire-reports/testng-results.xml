@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15710" started-at="2019-06-20T21:11:16Z" finished-at="2019-06-20T21:11:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15710" started-at="2019-06-20T21:11:16Z" finished-at="2019-06-20T21:11:32Z">
+      <class name="application.AppTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:application.AppTest@2c6a3f77]" name="setup" is-config="true" duration-ms="7835" started-at="2019-06-20T17:11:16Z" finished-at="2019-06-20T17:11:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createContent()[pri:0, instance:application.AppTest@2c6a3f77]" name="createContent" duration-ms="2711" started-at="2019-06-20T17:11:24Z" finished-at="2019-06-20T17:11:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:application.AppTest@2c6a3f77]" name="tearDown" is-config="true" duration-ms="453" started-at="2019-06-20T17:11:27Z" finished-at="2019-06-20T17:11:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:application.AppTest@2c6a3f77]" name="setup" is-config="true" duration-ms="4237" started-at="2019-06-20T17:11:27Z" finished-at="2019-06-20T17:11:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:application.AppTest@2c6a3f77]" name="logout" duration-ms="0" started-at="2019-06-20T17:11:31Z" finished-at="2019-06-20T17:11:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:application.AppTest@2c6a3f77]" name="tearDown" is-config="true" duration-ms="455" started-at="2019-06-20T17:11:31Z" finished-at="2019-06-20T17:11:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- application.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
