@@ -33,6 +33,7 @@ public class AppTest {
 	}
 	@AfterMethod
 	public void tearDown() {
+		System.out.println("added to the developer branch from windows");
 		driver.quit();
 	}
 }
